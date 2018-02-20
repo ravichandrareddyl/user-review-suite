@@ -1,0 +1,22 @@
+{
+    "core" : [
+        {"name":"Cloris Banke","id":120348,"crdate":"9.2.2014","lldate":"10.2.2018","lltime":"12:19","role":"GIS Technical Architect","country":"India"},    
+        {"name":"Leesa Gore","id":86681,"crdate":"18.2.2014","lldate":"2.2.2018","lltime":"13:03","role":"Social Worker","country":"India"},
+        {"name":"Webb Vasyutkin","id":76709,"crdate":"4.6.2016","lldate":"1.2.2018","lltime":"15:25","role":"Product Engineer","country":"India"},
+        {"name":"Rozella Bachelor","id":112680,"crdate":"17.7.2014","lldate":"2.2.2018","lltime":"12:59","role":"Research Nurse","country":"India"},
+        {"name":"Kaleena Tyrwhitt","id":75488,"crdate":"26.7.2016","lldate":"13.2.2018","lltime":"12:50","role":"Human Resources Manager","country":"India"},
+        {"name":"Haydon Fattore","id":36701,"crdate":"8.7.2014","lldate":"3.2.2018","lltime":"14:15","role":"Teacher","country":"India"},
+        {"name":"Joseito Blyth","id":82296,"crdate":"23.11.2016","lldate":"21.2.2018","lltime":"11:42","role":"Social Worker","country":"India"},
+        {"name":"Dory Mobius","id":26153,"crdate":"3.5.2014","lldate":"10.2.2018","lltime":"11:26","role":"Product Engineer","country":"India"},
+        {"name":"Calli Temblett","id":21782,"crdate":"4.9.2016","lldate":"3.2.2018","lltime":"15:01","role":"Structural Engineer","country":"India"},
+        {"name":"Zahara Gillinghams","id":33464,"crdate":"14.6.2015","lldate":"2.2.2018","lltime":"15:01","role":"Programmer Analyst IV","country":"India"},
+        {"name":"Rosene Seaton","id":23312,"crdate":"5.12.2014","lldate":"19.2.2018","lltime":"17:19","role":"Mechanical Systems Engineer","country":"India"}
+    ],
+    "treasury" : [
+        {"name":"Ado Kupker","id":83070,"crdate":"19.1.2016","lldate":"2.2.2018","lltime":"16:12","role":"Senior Quality Engineer","country":"India"},
+        {"name":"Ardyce Vasquez","id":84569,"crdate":"10.11.2015","lldate":"2.2.2018","lltime":"14:33","role":"Budget/Accounting Analyst IV","country":"India"},
+        {"name":"Reginauld Lowres","id":98270,"crdate":"20.4.2016","lldate":"11.2.2018","lltime":"18:16","role":"Nurse","country":"India"},
+        {"name":"Griffith Loines","id":66955,"crdate":"5.12.2014","lldate":"2.2.2018","lltime":"12:19","role":"Data Coordiator","country":"India"},
+        {"name":"Brenna Duley","id":77429,"crdate":"5.8.2016","lldate":"2.2.2018","lltime":"17:28","role":"Payment Adjustment Coordinator","country":"India"}
+    ]
+}

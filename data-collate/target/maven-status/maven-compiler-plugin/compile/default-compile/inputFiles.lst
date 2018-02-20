@@ -1,0 +1,9 @@
+/home/ravi/VS_WS/data-collate/src/main/java/com/userreview/model/User.java
+/home/ravi/VS_WS/data-collate/src/main/java/com/userreview/util/FileHandlingUtils.java
+/home/ravi/VS_WS/data-collate/src/main/java/com/userreview/Application.java
+/home/ravi/VS_WS/data-collate/src/main/java/com/userreview/util/DbUtil.java
+/home/ravi/VS_WS/data-collate/src/main/java/com/userreview/controller/GenerateExtract.java
+/home/ravi/VS_WS/data-collate/src/main/java/com/userreview/util/EncryptionUtil.java
+/home/ravi/VS_WS/data-collate/src/main/java/com/userreview/util/FileEncryptionUtil.java
+/home/ravi/VS_WS/data-collate/src/main/java/com/userreview/model/DBDetails.java
+/home/ravi/VS_WS/data-collate/src/main/java/com/userreview/db/UserReviewDAO.java

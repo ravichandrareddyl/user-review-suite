@@ -1,0 +1,220 @@
+{
+    "applications": [
+        {
+            "name": "core",
+            "query": "select * from extracts",
+            "instances": [
+                {
+                    "instanceName": "IN1",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN2",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN3",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN4",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN5",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN6",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN7",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN8",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN9",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN10",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN11",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN12",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN13",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN14",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN15",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN16",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN17",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN18",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN19",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN20",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN21",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN22",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN23",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN24",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN25",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN26",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN27",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN28",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN29",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                },
+                {
+                    "instanceName": "IN30",
+                    "dbClass": "oracle.jdbc.driver.OracleDriver",
+                    "dbUrl": "jdbc:oracle:thin:@localhost:1521:xe",
+                    "user": "oon+QniaFyEapuT11RoGjw==",
+                    "password": "oon+QniaFyEapuT11RoGjw=="
+                }
+            ]
+        }
+    ]
+}

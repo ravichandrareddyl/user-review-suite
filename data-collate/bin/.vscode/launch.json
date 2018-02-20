@@ -1,0 +1,59 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Application<data-collate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "src.main.java.com.userreview.Application",
+            "projectName": "data-collate",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EncryptionUtil<data-collate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "src.main.java.com.userreview.util.EncryptionUtil",
+            "projectName": "data-collate",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileEncryptionUtil<data-collate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "src.main.java.com.userreview.util.FileEncryptionUtil",
+            "projectName": "data-collate",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileHandlingUtils<data-collate>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "src.main.java.com.userreview.util.FileHandlingUtils",
+            "projectName": "data-collate",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}

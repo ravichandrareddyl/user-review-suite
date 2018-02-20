@@ -1,0 +1,9 @@
+com/userreview/controller/GenerateExtract.class
+com/userreview/model/User.class
+com/userreview/Application.class
+com/userreview/util/DbUtil.class
+com/userreview/util/FileEncryptionUtil.class
+com/userreview/util/EncryptionUtil.class
+com/userreview/model/DBDetails.class
+com/userreview/util/FileHandlingUtils.class
+com/userreview/db/UserReviewDAO.class

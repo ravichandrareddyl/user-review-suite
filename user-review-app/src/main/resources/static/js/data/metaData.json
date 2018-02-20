@@ -1,0 +1,22 @@
+{
+    "dataSources" : {
+        "core": {
+            "ip": "localhost",
+            "port": "8085",
+            "tableName": "demo",
+            "columns": ["user-name", "user-id"],
+            "whereClause" : [
+                {"key": "user-name", "values": ["ravi", "malvika"]}
+            ]
+        },
+        "treasury": {
+            "ip": "localhost",
+            "port": "8086",
+            "tableName": "demo",
+            "columns": ["user-name", "user-id"],
+            "whereClause" : [
+                {"key": "user-name", "values": ["ravi", "malvika"]}
+            ]
+        }
+    }
+}

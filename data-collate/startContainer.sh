@@ -1,0 +1,1 @@
+docker run -d -p 8080:8080 -p 1521:1521 -v /home/ravi/ordata:/u01/app/oracle sath89/oracle-xe-11g
